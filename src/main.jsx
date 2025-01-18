@@ -1,7 +1,7 @@
 import { createRoot } from "react-dom/client";
 
 let root = document.querySelector("#root")
-import Tasbiix from "./component/tasbiix";
+import Tasbiix from "./component.j/Tasbiix";
 
 
 
